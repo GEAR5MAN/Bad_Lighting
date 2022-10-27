@@ -5,4 +5,5 @@
 #include "../include/Exception.h"
 
 namespace Game {
+
 } // Game

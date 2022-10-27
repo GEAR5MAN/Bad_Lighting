@@ -1,6 +1,7 @@
 #include <iostream>
+#include "include/LinkedNode2D.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    
     return 0;
 }

@@ -7,9 +7,7 @@
 
 namespace Game {
 
-    class Exception {
-
-    };
+    class NULLException {};
 
 } // Game
 
