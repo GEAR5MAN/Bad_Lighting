@@ -5,12 +5,11 @@
 #ifndef ASSIGNMENT_3_V2_LINKEDNODE2D_H
 #define ASSIGNMENT_3_V2_LINKEDNODE2D_H
 
+#include "../environment/LinkedListEnv.h"
 #include <stdexcept>
 #include <cstddef>
 
 namespace Base {
-
-    enum dimension_t { x, y } ;
 
     template<class TNode>
     class LinkedNode2D {
