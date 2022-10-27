@@ -6,7 +6,7 @@
 #define ASSIGNMENT_3_V2_LINKEDLIST2D_H
 
 #include "../environment/LinkedListEnv.h"
-#include "LinkedNode2D.h"
+#include "LinkedNode2D.hpp"
 #include "Copyable.h"
 #include "cstddef"
 
